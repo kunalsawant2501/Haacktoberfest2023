@@ -18,7 +18,7 @@ Do read the [Contribution Guidelines](/CONTRIBUTING.md)
 - 💡 Suggesting new features
 - 📚 Improving documentation
 - 🐛 Fixing bugs
-- 💻 Adding new code
+- 💻 Adding new code..
 
 ### Code of Conduct
 
